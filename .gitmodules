@@ -1,0 +1,3 @@
+[submodule "delphi-ws2socket.io-adapter"]
+	path = delphi-ws2socket.io-adapter
+	url = https://github.com/ydhn/ws2socket.io-Pascal.git
